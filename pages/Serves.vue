@@ -26,77 +26,7 @@
     export default {
         data(){
             return{
-                tools: [
-                    {
-                    id : 1,
-                    colour:'yellow',
-                    shoe:'yellow',
-                    name:'gucci',
-                    price:'100$',
-                    cnumber:'3',
-                    img: gucci
-                    },
-                    
-                     {
-                    id : 2,
-                    colour:'yellow',
-                    shoe:'yellow',
-                    name:'gucci',
-                    price:'100$',
-                    cnumber:'3',
-                    img: shoe2
-                    },
-
-                     {
-                    id : 3,
-                    colour:'red',
-                    shoe:'yellow',
-                    name:'gucci',
-                    price:'100$',
-                    cnumber:'3',
-                    img: gucci
-                    },
-                    {
-                    id : 4,
-                    colour:'yellow',
-                    shoe:'red',
-                    name:'gucci',
-                    price:'100$',
-                    cnumber:'3',
-                    img: gucci
-                    },
-
-                     {
-                    id : 4,
-                    colour:'yellow',
-                    shoe:'red',
-                    name:'gucci',
-                    price:'100$',
-                    cnumber:'3',
-                    img: gucci
-                    },
-
-                     {
-                    id : 4,
-                    colour:'yellow',
-                    shoe:'red',
-                    name:'gucci',
-                    price:'100$',
-                    cnumber:'3',
-                    img: gucci
-                    },
-
-                     {
-                    id : 4,
-                    colour:'yellow',
-                    shoe:'red',
-                    name:'gucci',
-                    price:'100$',
-                    cnumber:'3',
-                    img: gucci
-                    },
-                   
-                ],
+               
             }
         }
     }
