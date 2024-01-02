@@ -6,8 +6,8 @@
         <ul class=" md:flex   hidden gap-5">
             <li class="cursor-pointer"> <NuxtLink to="/about">About us</NuxtLink></li>
             <li class="cursor-pointer"> <NuxtLink to="/works">Our Case Studies</NuxtLink></li>
-            <li class="cursor-pointer"> <NuxtLink to="/Services">Services</NuxtLink>  </li>
-            <li  class="cursor-pointer"> <NuxtLink to="/Services">Discuss with us</NuxtLink> </li>
+            <li class="cursor-pointer"> <NuxtLink to="/Serves">Services</NuxtLink>  </li>
+            <li  class="cursor-pointer"> <NuxtLink to="/duscuss">Discuss with us</NuxtLink> </li>
         </ul>
     </nav>
   </div>
