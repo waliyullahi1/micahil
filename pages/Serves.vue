@@ -20,8 +20,7 @@
 </template>
 
 <script >
-        import gucci from '../assets/images/shoe.jpg'
-    import shoe2 from '../assets/images/shoe2.jpeg'  
+       
  
     export default {
         data(){
