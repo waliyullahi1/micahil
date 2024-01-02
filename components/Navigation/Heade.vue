@@ -4,10 +4,10 @@
     <nav class="flex justify-between container mx-auto py-6 bg-transparent items-center text-white ">
         <div class="font-bold text-xl" > <img src="@/assets/images/micakin.svg"  class="w-32" alt=""></div>
         <ul class=" md:flex   hidden gap-5">
-            <li class="cursor-pointer">About us</li>
-            <li class="cursor-pointer">Our Case Studies</li>
-            <li class="cursor-pointer"> Services </li>
-            <li  class="cursor-pointer">Discuss with us</li>
+            <li class="cursor-pointer"> <NuxtLink to="/about">About us</NuxtLink></li>
+            <li class="cursor-pointer"> <NuxtLink to="/works">Our Case Studies</NuxtLink></li>
+            <li class="cursor-pointer"> <NuxtLink to="/Services">Services</NuxtLink>  </li>
+            <li  class="cursor-pointer"> <NuxtLink to="/Services">Discuss with us</NuxtLink> </li>
         </ul>
     </nav>
   </div>
